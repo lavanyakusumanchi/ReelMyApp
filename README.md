@@ -36,37 +36,68 @@ Instead of manual video editing, users simply provide the assets, and the system
 2.  **Generate**: detailed inputs are sent to the backend.
 3.  **View**: The generated marketing reel appears in the main scrollable feed, complete with your branding and audio.
 
+## 📸 Output Screens
+
 📸 Output Screens
 🔐 Authentication Flow
+Login	| Create Account |	Forgot Password
 
-Secure and simple onboarding for users
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/28338fc5-85e5-49f4-a999-57b077e08c3a" />
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/2207d142-74a9-4ad4-9b85-29caaca08ecd" />
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/21d719a4-3513-42e3-a3ed-a227d99c565d" />
 
-<p align="center"> <img src="https://github.com/user-attachments/assets/a212be9e-269e-4a38-a10a-3a722ab3b6f8" width="180"/> <img src="https://github.com/user-attachments/assets/c2ca2cc0-72d8-4263-965a-80cc2c4080e1" width="180"/> <img src="https://github.com/user-attachments/assets/a11444a3-2eaa-44e4-b0c3-d27e152787cd" width="180"/> </p> <p align="center"> <i>Login · Create Account · Forgot Password</i> </p>
+
+	
 🏠 Home Feed & Discovery
+Home  |Feed	Category | Tabs	Reel Actions
+<img width="540" height="1200" alt="image" src="https://github.com/user-attachments/assets/753dd876-93f1-4b20-b07d-e1426a11080e" />
+<img width="540" height="1200" alt="image" src="https://github.com/user-attachments/assets/b5ec67ad-e900-461f-b308-bb6012a50ed2" />
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/8f5059cd-53c8-403d-a954-c027a57240ce" />
+<img width="540" height="1200" alt="image" src="https://github.com/user-attachments/assets/30d27a13-939a-4418-a0e7-c6c963bdd58e" />
 
-Immersive, scrollable reel feed with engagement actions
 
-<p align="center"> <img src="https://github.com/user-attachments/assets/70932dc2-3e74-40c3-afcb-994f79ef6ae6" width="180"/> <img src="https://github.com/user-attachments/assets/271c385d-129d-40f4-b8e9-a5150c0e0deb" width="180"/> <img src="https://github.com/user-attachments/assets/dee796cb-7310-4229-b621-9e845f2ad91d" width="180"/> <img src="https://github.com/user-attachments/assets/94e23284-f6dd-4503-a640-e199124eb445" width="180"/> </p> <p align="center"> <i>Home Feed · Category Tabs · Reel Actions</i> </p>
+
+
+
 ➕ Create Reel Flow
+Create Reel |	Media Inputs |	Generate Reel
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/5bbbe75c-8045-40d0-824d-36a4bcedabe6" />
+<img width="540" height="1200" alt="image" src="https://github.com/user-attachments/assets/631bd3cc-0ef2-467c-8100-3f7656fbaa24" />
+<img width="540" height="1200" alt="image" src="https://github.com/user-attachments/assets/87716bb0-54a8-4d54-9758-da1ed2e575d3" />
+<img width="540" height="1200" alt="image" src="https://github.com/user-attachments/assets/f5c39a90-e874-4d7f-b117-5375e60f0ce9" />
+<img width="540" height="1200" alt="image" src="https://github.com/user-attachments/assets/c0c902fb-215f-48e9-8829-c7fd097e34c1" />
 
-Step-by-step reel creation using minimal inputs
 
-<p align="center"> <img src="https://github.com/user-attachments/assets/7a03ea90-c40a-49e0-a152-55dfb23837e8" width="180"/> <img src="https://github.com/user-attachments/assets/c45d7214-3994-4db6-8ea9-a01f40974f94" width="180"/> <img src="https://github.com/user-attachments/assets/8c5a9cce-a764-4bcd-bd8a-a3b5c4cdabd8" width="180"/> <img src="https://github.com/user-attachments/assets/ceb71fcc-ef54-4e61-8588-b6c41707084e" width="180"/> <img src="https://github.com/user-attachments/assets/261b3a96-1881-4b11-8205-0fe6553cad9a" width="180"/> </p> <p align="center"> <i>Create Reel · Media Inputs · Generate Reel</i> </p>
+
+	
+	
 👤 User Profile
+Profile |	My Reels |	Saved Reels
 
-Personalized profile with created and saved reels
 
-<p align="center"> <img src="https://github.com/user-attachments/assets/1da770b0-f8a2-4019-8343-0fe5afa0b6b6" width="180"/> <img src="https://github.com/user-attachments/assets/a532248b-f382-4761-b652-349f2cb115f9" width="180"/> <img src="https://github.com/user-attachments/assets/6c99bf43-0b48-42b6-ba90-2318a8ddb089" width="180"/> </p> <p align="center"> <i>Profile · My Reels · Saved Reels</i> </p>
+<img width="540" height="1200" alt="image" src="https://github.com/user-attachments/assets/2e9910b7-3ab1-4eff-bdbc-a7676c46cbe6" />
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/d1545b0d-ec80-4b62-a22e-cfd93d393b1e" />
+<img width="540" height="1200" alt="image" src="https://github.com/user-attachments/assets/04f9331d-9adb-4274-a872-bc7a05e76e35" />
+
+
+
+	
+	
 ⚙️ Settings
+Settings	| Dark Mode  |	Preferences
 
-App preferences with theme customization
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/02db8a06-6ec6-4249-b692-a971e7f2fd68" />
+<img width="540" height="1200" alt="image" src="https://github.com/user-attachments/assets/f3e8485b-fc67-4779-b450-368818974bcb" />
 
-<p align="center"> <img src="https://github.com/user-attachments/assets/d21abebd-c560-442d-90d7-fb50c6755c4f" width="180"/> <img src="https://github.com/user-attachments/assets/3da467f8-bb5f-4d49-914c-4303c37c47ef" width="180"/> </p> <p align="center"> <i>Settings · Dark Mode</i> </p>
+	
 🛡 Admin Dashboard
+Dashboard	 |  Users Management  | 	Reels Moderation
 
-Moderation and management interface for platform control
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/379a7699-65e6-4bed-bca1-931103516736" />
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/5a2db669-a577-4632-b98b-00b1e61207eb" />
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/4df58f3c-1a0b-4f2c-a66d-b0433e5ee5e5" />
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/2ce13941-069f-48fc-8d04-9cd861d611ac" />
 
-<p align="center"> <img src="https://github.com/user-attachments/assets/d4e21dc4-21e6-4a59-901a-1734dd9b2488" width="220"/> <img src="https://github.com/user-attachments/assets/894b1b60-84d4-4391-9ce3-3948005c86e7" width="220"/> <img src="https://github.com/user-attachments/assets/1feba271-7c3e-469f-ad89-4a8f1b78bfad" width="220"/> <img src="https://github.com/user-attachments/assets/de33eff9-f7af-4299-a82c-09f427fd9310" width="220"/> </p> <p align="center"> <i>Dashboard · Users Management · Reels Moderation</i> </p>299-a82c-09f427fd9310" />
 
 
 
